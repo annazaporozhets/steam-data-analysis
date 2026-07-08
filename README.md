@@ -1,6 +1,6 @@
 # Steam Exploratory Data Analysis
 
-## Project Overview
+## Description
 This project focuses on conducting an Exploratory Data Analysis (EDA) on a comprehensive dataset of video games released on the Steam platform. The primary goal was to understand market dynamics, uncover relationships between game pricing and user feedback, and analyze factors that influence player engagement.
 
 
